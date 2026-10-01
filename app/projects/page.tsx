@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { HomecomingVideoFeature } from "../homecoming-video-feature";
 import { Footer, Header, SectionEyebrow } from "../site-components";
 
 const globalProjectPhotos = [
@@ -288,6 +289,7 @@ export default function ProjectsPage() {
                   </figure>
                 )}
               </div>
+              {initiative.number === "01" && <HomecomingVideoFeature />}
             </article>
           ))}
         </div>
