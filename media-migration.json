@@ -136,5 +136,15 @@
   "externalDriveImages": "Unchanged; not included in the uploaded local image archive.",
   "pendingUploads": [],
   "pendingReason": null,
-  "fieldGalleryVerification": "All 15 R2 field-gallery image URLs opened successfully in the browser on 2026-10-01; field galleries now use R2."
+  "fieldGalleryVerification": "All 15 R2 field-gallery image URLs opened successfully in the browser on 2026-10-01; field galleries now use R2.",
+  "videoMigration": {
+    "original": "All 15 activity field-gallery photos now use R2 URLs. The Sydney anniversary video still uses `public/assets/activities/sydney-statue-10th-congratulations.mp4` locally. To deploy independently, move that video to R2 and update `app/activity-data.ts`, or restore it from the existing site.",
+    "r2": "https://images.fcwmelbourne.org/events/2026/sydney-statue-10th-anniversary/03-congratulations-video.mp4",
+    "verified": "Browser loaded 720x1280 video, duration 40.44 seconds, without errors on 2026-10-01."
+  },
+  "localMediaCleanup": {
+    "removedFileCount": 128,
+    "removedBytes": 45146149,
+    "reason": "Media is served from R2; remove local copies from current source and deployment. Git history and historical Sites versions may still retain old assets."
+  }
 }
