@@ -254,19 +254,9 @@ export default function ProjectsPage() {
               key={initiative.number}
             >
               {initiative.number === "01" ? (
-                <div className="event-gallery-with-links">
-                  <EventPhotoGallery photos={screeningPhotos.slice(0, 3)} label={initiative.title} groupPhotos={false} />
-                  <div className="source-link-row screening-media-links">
-                    <a href="https://www.sbs.com.au/language/korean/ko/podcast-episode/k-art-gwihyang-melbourne-aussiebrosquad/gj9xglt7i" target="_blank" rel="noreferrer">
-                      SBS 한국어 보도 <span aria-hidden="true">{"\u2197\uFE0E"}</span>
-                    </a>
-                    <a href="https://www.topstarnews.net/news/articleView.html?idxno=16172128" target="_blank" rel="noreferrer">
-                      톱스타뉴스 보도 <span aria-hidden="true">{"\u2197\uFE0E"}</span>
-                    </a>
-                    <a href="https://www.apej.kr/bbs/board.php?bo_table=news&wr_id=8090" target="_blank" rel="noreferrer">
-                      아태경제저널 보도 <span aria-hidden="true">{"\u2197\uFE0E"}</span>
-                    </a>
-                  </div>
+                <div className="event-gallery-with-links homecoming-photo-gallery">
+                  <EventPhotoGallery photos={[screeningPhotos[3], ...screeningPhotos.slice(0, 3)]} label={initiative.title} groupPhotos={false} />
+
                 </div>
               ) : (
                 <EventPhotoGallery photos={memorialDayPhotos} label={initiative.title} />
@@ -278,15 +268,17 @@ export default function ProjectsPage() {
                 <h3>{initiative.title}</h3>
                 <p>{initiative.copy}</p>
                 {initiative.number === "01" && (
-                  <figure className="initiative-copy-photo">
-                    <img
-                      src={screeningPhotos[3].src}
-                      alt={screeningPhotos[3].alt}
-                      loading="lazy"
-                      decoding="async"
-                    />
-                    <figcaption>{screeningPhotos[3].caption}</figcaption>
-                  </figure>
+                  <div className="source-link-row screening-media-links">
+                    <a href="https://www.sbs.com.au/language/korean/ko/podcast-episode/k-art-gwihyang-melbourne-aussiebrosquad/gj9xglt7i" target="_blank" rel="noreferrer">
+                      SBS 한국어 보도 <span aria-hidden="true">{"\u2197\uFE0E"}</span>
+                    </a>
+                    <a href="https://www.topstarnews.net/news/articleView.html?idxno=16172128" target="_blank" rel="noreferrer">
+                      톱스타뉴스 보도 <span aria-hidden="true">{"\u2197\uFE0E"}</span>
+                    </a>
+                    <a href="https://www.apej.kr/bbs/board.php?bo_table=news&wr_id=8090" target="_blank" rel="noreferrer">
+                      아태경제저널 보도 <span aria-hidden="true">{"\u2197\uFE0E"}</span>
+                    </a>
+                  </div>
                 )}
               </div>
               {initiative.number === "01" && <HomecomingVideoFeature />}
