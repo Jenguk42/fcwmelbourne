@@ -108,9 +108,7 @@ export function ActivityFilter() {
                     className={`activity-card${activity.featured ? " activity-card-featured" : ""}${activity.supporting ? " activity-card-supporting" : ""}`}
                     key={`${activity.year}-${activity.title}`}
                   >
-                    {activity.video ? (
-                      <PhotoCarousel className="activity-card-media" photos={[{ src: activity.video.poster, alt: `${activity.title} 연대 메시지 영상 썸네일` }]} label={`${activity.title} 사진`} />
-                    ) : activity.photos?.length ? (
+                    {activity.photos?.length ? (
                       <PhotoCarousel className="activity-card-media" photos={activity.photos} label={`${activity.title} 사진`} />
                     ) : (
                       <div className="activity-card-mark" aria-hidden="true">
