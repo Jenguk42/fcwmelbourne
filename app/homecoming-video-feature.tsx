@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { useSiteLanguage } from "./language-controller";
 
 const videoSrc = "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/07-solidarity-video-messages.mp4";
-const poster = "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/05-event-poster-ko.webp";
+const poster = "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/08-solidarity-viedo-messages-still.webp";
 
 export function HomecomingVideoFeature() {
   const { language } = useSiteLanguage();
@@ -32,7 +32,7 @@ export function HomecomingVideoFeature() {
   return (
     <section className="homecoming-video-feature" aria-label={title}>
       <button type="button" className="homecoming-video-preview" aria-label={label} aria-haspopup="dialog" onClick={() => setOpen(true)}>
-        <video src={`${videoSrc}#t=1`} poster={poster} muted playsInline preload="metadata" aria-hidden="true" tabIndex={-1} />
+        <img src={poster} alt="" loading="lazy" decoding="async" />
         <span className="homecoming-video-play" aria-hidden="true">▶</span>
       </button>
       <div className="homecoming-video-copy">
