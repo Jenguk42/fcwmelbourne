@@ -6069,3 +6069,9 @@ html[data-language="en"] .cmta-poster::after {
     grid-row: 2;
   }
 }
+
+@media (min-width: 1025px) {
+  .projects-page .community-initiative-split-gallery {
+    grid-template-columns: minmax(0, 0.896fr) minmax(360px, 1.104fr);
+  }
+}
