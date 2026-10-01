@@ -3454,7 +3454,7 @@ html[data-language="en"] .cmta-poster::after {
   gap: 9px;
 }
 
-.source-link-row :is(a, .activity-video-pill) {
+.source-link-row a {
   min-height: 34px;
   padding: 7px 11px;
   display: inline-flex;
@@ -3470,8 +3470,8 @@ html[data-language="en"] .cmta-poster::after {
   transition: border-color 180ms ease, background-color 180ms ease, transform 180ms ease;
 }
 
-.source-link-row :is(a, .activity-video-pill):hover,
-.source-link-row :is(a, .activity-video-pill):focus-visible {
+.source-link-row a:hover,
+.source-link-row a:focus-visible {
   border-color: rgba(166, 127, 52, 0.68);
   background: rgba(255, 251, 241, 0.94);
   transform: translateY(-1px);
@@ -3503,7 +3503,7 @@ html[data-language="en"] .cmta-poster::after {
   margin-top: 20px;
 }
 
-.activity-source-links :is(a, .activity-video-pill) {
+.activity-source-links a {
   min-height: 31px;
   padding: 6px 10px;
   font-size: 11px;
@@ -6002,9 +6002,4 @@ html[data-language="en"] .cmta-poster::after {
   color: var(--ink);
   font-size: 20px;
   line-height: 1.5;
-}
-
-.activity-video-pill {
-  font-family: inherit;
-  cursor: pointer;
 }

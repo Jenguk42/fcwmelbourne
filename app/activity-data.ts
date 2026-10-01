@@ -162,7 +162,7 @@ export const activities: Activity[] = [
   { year: "2026", date: "17 Jan 2026", category: "culture", featured: true, title: "생존자를 위한 정의의 목소리", copy: "생존자들의 정의와 존엄을 위한 목소리를 지역사회와 함께 나누고 기억의 책임을 다시 확인했습니다.", photos: [photo(63, "생존자를 위한 정의의 목소리 행사 안내")] },
   { year: "2026", date: "1 Mar 2026", category: "international", title: "CAPA와 지역 연대 관계자 소녀상 방문", copy: "CAPA와 지역 연대 관계자들이 평화의 소녀상 현장을 방문해 기억과 연대의 방향을 나눴습니다.", photos: [photo(64, "평화의 소녀상 앞에 모인 CAPA와 FCWM 관계자들")] },
   { year: "2026", date: "7 Mar 2026", category: "international", featured: true, title: "Women’s Voices: War, Memory and the Pursuit of Peace", copy: "국제 여성의 날을 맞아 CAPA, RMIT 연구진 등과 함께 전쟁·기억·평화를 주제로 공동 포럼을 개최했습니다.", photos: [photo(66, "전쟁·기억·평화를 주제로 열린 국제 여성의 날 포럼"), photo(65, "Women’s Voices 국제 여성의 날 포럼 안내")] },
-  { year: "2026", date: "8 Aug 2026", category: "international", title: "시드니 평화의 소녀상 10주년 연대", copy: "시드니 평화의 소녀상 건립 10주년을 맞아 연대 영상을 보내 호주 내 소녀상 운동의 연결을 이어갔습니다.", photos: [{ src: "https://images.fcwmelbourne.org/events/2026/sydney-statue-10th-anniversary/02-congratulations-video-thumbnail.png", alt: "시드니 평화의 소녀상 10주년 연대 기록" }] },
+  { year: "2026", date: "8 Aug 2026", category: "international", title: "시드니 평화의 소녀상 10주년 연대", copy: "시드니 평화의 소녀상 건립 10주년을 맞아 연대 영상을 보내 호주 내 소녀상 운동의 연결을 이어갔습니다.", video: { src: "https://images.fcwmelbourne.org/events/2026/sydney-statue-10th-anniversary/03-congratulations-video.mp4", poster: "https://images.fcwmelbourne.org/events/2026/sydney-statue-10th-anniversary/02-congratulations-video-thumbnail.png" } },
   { year: "2026", date: "15 Aug 2026", category: "culture", featured: true, title: "광복절과 일본군 ‘위안부’ 피해자 기림의 날", copy: "광복절과 일본군 ‘위안부’ 피해자 기림의 날을 함께 기억하는 행사를 진행했습니다.", photos: [
     { src: "https://images.fcwmelbourne.org/events/2026/girim-day/05-kim-seo-kyung-speech.webp", alt: "2026년 광복절과 일본군 위안부 피해자 기림의 날 행사에서 김서경 작가가 강연하는 모습" },
     { src: "https://images.fcwmelbourne.org/events/2026/girim-day/02-commemorative-address.webp", alt: "2026년 광복절과 일본군 위안부 피해자 기림의 날 기념사" },
@@ -170,7 +170,7 @@ export const activities: Activity[] = [
     { src: "https://images.fcwmelbourne.org/events/2026/girim-day/04-stage-reading.webp", alt: "2026년 광복절과 일본군 위안부 피해자 기림의 날 무대 낭독" },
     photo(69, "2026년 광복절과 일본군 위안부 피해자 기림 행사 안내 포스터"),
   ] },
-  { year: "2026", date: "12 Sep 2026", category: "culture", featured: true, title: "《귀향》 10주년 멜번 특별상영회", video: { src: "https://images.fcwmelbourne.org/events/2026/sydney-statue-10th-anniversary/03-congratulations-video.mp4", poster: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/05-event-poster-ko.webp" }, copy: "영화 《귀향》 개봉 10주년을 맞아 특별상영회를 열고, 일본군 ‘위안부’ 피해자들의 이야기와 기억의 의미를 지역사회와 나눴습니다.", photos: [
+  { year: "2026", date: "12 Sep 2026", category: "culture", featured: true, title: "《귀향》 10주년 멜번 특별상영회", copy: "영화 《귀향》 개봉 10주년을 맞아 특별상영회를 열고, 일본군 ‘위안부’ 피해자들의 이야기와 기억의 의미를 지역사회와 나눴습니다.", photos: [
     { src: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/03-paper-planes.jpg", alt: "귀향 상영회 종이비행기" },
     { src: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/01-audience.jpg", alt: "귀향 상영회 관객" },
     { src: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/02-welcome-desk.jpg", alt: "귀향 상영회 안내 데스크" },
