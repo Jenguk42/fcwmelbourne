@@ -6053,3 +6053,19 @@ html[data-language="en"] .cmta-poster::after {
 .homecoming-photo-gallery .event-photo-grid figure:nth-child(2) img { aspect-ratio: 16 / 10; object-position: center; }
 
 .homecoming-video-copy .homecoming-video-contributors { font-size: 13px; font-weight: 400; line-height: 1.8; }
+
+@media (max-width: 768px) {
+  .projects-page .global-project-body > .global-project-steps,
+  .projects-page .nested-initiative > .nested-initiative-copy,
+  .projects-page .homecoming-video-feature > .homecoming-video-copy {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .projects-page .global-project-body > .global-project-gallery,
+  .projects-page .nested-initiative > .event-photo-grid,
+  .projects-page .nested-initiative > .event-gallery-with-links,
+  .projects-page .homecoming-video-feature > .homecoming-video-preview {
+    grid-column: 1;
+    grid-row: 2;
+  }
+}
