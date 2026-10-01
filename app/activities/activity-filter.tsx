@@ -109,7 +109,7 @@ export function ActivityFilter() {
                     key={`${activity.year}-${activity.title}`}
                   >
                     {activity.video ? (
-                      <ActivityVideo {...activity.video} title={activity.title} />
+                      <PhotoCarousel className="activity-card-media" photos={[{ src: activity.video.poster, alt: `${activity.title} 연대 메시지 영상 썸네일` }]} label={`${activity.title} 사진`} />
                     ) : activity.photos?.length ? (
                       <PhotoCarousel className="activity-card-media" photos={activity.photos} label={`${activity.title} 사진`} />
                     ) : (
@@ -127,6 +127,11 @@ export function ActivityFilter() {
                       </div>
                       <h4>{activity.title}</h4>
                       <p>{activity.copy}</p>
+                      {activity.video ? (
+                        <div className="source-link-row activity-source-links">
+                          <ActivityVideo {...activity.video} title={activity.title} />
+                        </div>
+                      ) : null}
                       {activity.sources?.length ? (
                         <div className="source-link-row activity-source-links">
                           {activity.sources.map((source) => (

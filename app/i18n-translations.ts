@@ -607,6 +607,7 @@ export const englishTranslations: Record<string, string> = {
   "소녀상 앞에서 함께한 추모의 순간": "A moment of remembrance at the statue",
   "소녀상과 함께 이어 간 기억 캠페인": "Remembrance campaign at the statue",
   "영상 닫기": "Close video",
+  "연대 메시지 영상 보기": "Watch the solidarity message video",
   "영화 아이 캔 스피크 상영 포스터": "I Can Speak screening poster",
   "영화 아이 캔 스피크 상영과 모금 행사 현장": "I Can Speak screening and fundraising event",
   "오세아니아 온라인 영화 상영과 게스트 토크": "Oceania online film screening and guest talk",
