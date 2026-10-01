@@ -41,7 +41,7 @@ export function HomecomingVideoFeature() {
         <p>{copy}</p>
         <p className="homecoming-video-contributors">
           {english ? "Video messages from: Director Cho Jung-rae, " : "영상 메시지를 보내주신 분들: 조정래 감독, "}
-          <strong>{english ? "Kim Nam-joon, Member of the National Assembly" : "김남준 국회의원"}</strong>
+          {english ? "Kim Nam-joon, Member of the National Assembly" : "김남준 국회의원"}
           {english
             ? ", Kim Boo-mi (Myeongjamom), Fr David Kim Uk, Noh Jong-myeon (Member of the National Assembly), Park Chan-dae (Mayor of Incheon), Seo Mi-hwa (Member of the National Assembly), Baek Eun-jong (Representative of Voice of Seoul), Dr Sin Ji Jung (Lecturer in Korean Studies, University of Melbourne), Jeong Myeong-geun (Mayor of Hwaseong)"
             : ", 김부미(명자맘), 김욱 다윗 신부, 노종면 국회의원, 박찬대 인천광역시장, 서미화 국회의원, 백은종 서울의소리 대표, 정신지 멜버른대학교 한국학 강사, 정명근 화성특례시장"}
