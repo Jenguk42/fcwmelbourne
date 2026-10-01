@@ -1,0 +1,200 @@
+{
+  "baseUrl": "https://images.fcwmelbourne.org",
+  "images": {
+    "/assets/activities/page-4-1.webp": "https://images.fcwmelbourne.org/events/2016/statue-committee/01-first-meeting.webp",
+    "/assets/activities/page-6-1.webp": "https://images.fcwmelbourne.org/events/2017/peace-community-solidarity/01-universal-ancient-wisdom-poster.webp",
+    "/assets/activities/page-5-1.webp": "https://images.fcwmelbourne.org/events/2017/the-apology/01-screening-poster.webp",
+    "/assets/activities/page-9-1.webp": "https://images.fcwmelbourne.org/events/2018/daily-bread/01-festival-participants.png",
+    "/assets/activities/page-15-1.webp": "https://images.fcwmelbourne.org/events/2018/hwaseong-delegation/01-delegation-meeting.webp",
+    "/assets/activities/page-10-1.webp": "https://images.fcwmelbourne.org/events/2018/i-can-speak/01-screening-event.webp",
+    "/assets/activities/page-11-1.webp": "https://images.fcwmelbourne.org/events/2018/i-can-speak/02-screening-poster.webp",
+    "/assets/activities/page-8-1.webp": "https://images.fcwmelbourne.org/events/2018/international-womens-day/01-sbs-interview-record.webp",
+    "/assets/activities/page-14-2.webp": "https://images.fcwmelbourne.org/events/2018/military-sexual-slavery-forum/01-forum-event.webp",
+    "/assets/activities/page-14-1.webp": "https://images.fcwmelbourne.org/events/2018/military-sexual-slavery-forum/02-forum-record.webp",
+    "/assets/activities/page-13-1.webp": "https://images.fcwmelbourne.org/events/2018/statue-site-public-hearing/01-public-hearing.webp",
+    "/assets/activities/page-12-1.webp": "https://images.fcwmelbourne.org/events/2018/young-korean-leaders-forum/01-group-photo.webp",
+    "/assets/activities/page-19-1.webp": "https://images.fcwmelbourne.org/events/2019/alamanda-college/01-students-and-families.webp",
+    "/assets/activities/page-21-1.webp": "https://images.fcwmelbourne.org/events/2019/girim-day/01-remembrance-event.webp",
+    "/assets/activities/page-22-1.webp": "https://images.fcwmelbourne.org/events/2019/girim-day/02-community-participation.png",
+    "/assets/activities/page-24-1.webp": "https://images.fcwmelbourne.org/events/2019/jan-ruff-oherne-memorial/01-memorial-tribute.webp",
+    "/assets/activities/page-17-1.webp": "https://images.fcwmelbourne.org/events/2019/kim-bok-dong-memorial/01-memorial-altar.webp",
+    "/assets/activities/page-18-1.webp": "https://images.fcwmelbourne.org/events/2019/kim-bok-dong-memorial/02-memorial-record.webp",
+    "/assets/activities/page-30-1.webp": "https://images.fcwmelbourne.org/events/2019/kim-bok-dong-screening/01-screening-poster.webp",
+    "/assets/activities/page-28-1.webp": "https://images.fcwmelbourne.org/events/2019/local-artists-solidarity/01-exhibition-visit.webp",
+    "/assets/activities/page-31-1.webp": "https://images.fcwmelbourne.org/events/2019/peace-statue-unveiling/01-unveiling-group-photo.webp",
+    "/assets/activities/page-23-1.webp": "https://images.fcwmelbourne.org/events/2019/statue-establishment-public-hearing/01-hearing-notice.webp",
+    "/assets/activities/page-26-1.webp": "https://images.fcwmelbourne.org/events/2019/statue-foundation-works/01-groundworks.webp",
+    "/assets/activities/page-27-1.webp": "https://images.fcwmelbourne.org/events/2019/statue-foundation-works/02-foundation-construction.webp",
+    "/assets/activities/page-20-1.webp": "https://images.fcwmelbourne.org/events/2019/suzanne-cory-high-school/01-education-and-fundraising.webp",
+    "/assets/activities/page-16-1.webp": "https://images.fcwmelbourne.org/events/2019/war-and-womens-human-rights-museum/01-museum-visit.webp",
+    "/assets/activities/page-25-1.webp": "https://images.fcwmelbourne.org/events/2019/young-korean-leaders-forum/01-group-photo.webp",
+    "/assets/activities/page-34-1.webp": "https://images.fcwmelbourne.org/events/2020/australia-comfort-women-webinar/01-webinar-record.webp",
+    "/assets/activities/page-33-1.webp": "https://images.fcwmelbourne.org/events/2020/girim-day/01-online-event-notice.webp",
+    "/assets/activities/page-35-1.webp": "https://images.fcwmelbourne.org/events/2021/activism-inspiration-legacy/01-webinar-record.webp",
+    "/assets/activities/page-36-1.webp": "https://images.fcwmelbourne.org/events/2021/unfinished-stories-writing-competition/01-competition-notice.webp",
+    "/assets/activities/page-37-1.webp": "https://images.fcwmelbourne.org/events/2022/oceania-film-screening/01-screening-and-talk.webp",
+    "/assets/activities/page-38-1.webp": "https://images.fcwmelbourne.org/events/2022/pachinko-library-donation/01-book-donation.webp",
+    "/assets/activities/page-40-1.webp": "https://images.fcwmelbourne.org/events/2023/calculated-nationalism-book-concert/01-book-concert-notice.webp",
+    "/assets/activities/page-41-1.webp": "https://images.fcwmelbourne.org/events/2023/entwined-atrocities-book-launch/01-launch-participants.webp",
+    "/assets/activities/page-42-1.webp": "https://images.fcwmelbourne.org/events/2023/entwined-atrocities-book-launch/02-launch-record.webp",
+    "/assets/activities/page-39-1.webp": "https://images.fcwmelbourne.org/events/2023/korea-festival/01-fcwm-booth.webp",
+    "/assets/activities/page-43-1.webp": "https://images.fcwmelbourne.org/events/2023/systematic-silencing-book-launch/01-book-launch.webp",
+    "/assets/activities/page-44-1.webp": "https://images.fcwmelbourne.org/events/2023/systematic-silencing-book-launch/02-launch-record.webp",
+    "/assets/activities/page-45-1.webp": "https://images.fcwmelbourne.org/events/2023/vka-fundraising-night/01-fcwm-members.webp",
+    "/assets/activities/vka-fundraising-night-2023.webp": "https://images.fcwmelbourne.org/events/2023/vka-fundraising-night/02-celebration-performance.webp",
+    "/assets/activities/page-47-1.webp": "https://images.fcwmelbourne.org/events/2024/chinese-peace-statue-launch/01-launch-event.webp",
+    "/assets/activities/page-47-2.webp": "https://images.fcwmelbourne.org/events/2024/chinese-peace-statue-launch/02-group-photo.webp",
+    "/assets/global-peace-launch-group.webp": "https://images.fcwmelbourne.org/events/2024/chinese-peace-statue-launch/02-group-photo.webp",
+    "/assets/global-peace-launch-cho.webp": "https://images.fcwmelbourne.org/events/2024/chinese-peace-statue-launch/04-speaker-cho.webp",
+    "/assets/global-peace-launch-appreciation.webp": "https://images.fcwmelbourne.org/events/2024/chinese-peace-statue-launch/05-appreciation-presentation.webp",
+    "/assets/global-peace-launch-kim.webp": "https://images.fcwmelbourne.org/events/2024/chinese-peace-statue-launch/06-speaker-kim.webp",
+    "/assets/activities/page-52-1.webp": "https://images.fcwmelbourne.org/events/2024/fcwm-agm-bbq/01-agm-notice.webp",
+    "/assets/activities/flowers-of-war-event-2024.webp": "https://images.fcwmelbourne.org/events/2024/flowers-of-war/01-group-photo.webp",
+    "/assets/activities/page-49-1.webp": "https://images.fcwmelbourne.org/events/2024/flowers-of-war/02-screening-notice.webp",
+    "/assets/activities/global-peace-statue-egm-2024.webp": "https://images.fcwmelbourne.org/events/2024/global-peace-statue-egm/01-egm-poster.webp",
+    "/assets/activities/page-51-1.webp": "https://images.fcwmelbourne.org/events/2024/global-peace-statue-egm/01-egm-poster.webp",
+    "/assets/activities/page-50-1.webp": "https://images.fcwmelbourne.org/events/2024/global-peace-statue-public-hearing/01-hearing-notice.webp",
+    "/assets/activities/page-53-1.webp": "https://images.fcwmelbourne.org/events/2024/vka-fundraising-night/01-fcwm-members.webp",
+    "/assets/activities/page-59-1.webp": "https://images.fcwmelbourne.org/events/2025/abc-ning-pan-interview/01-interview-record.webp",
+    "/assets/activities/agm-2025.webp": "https://images.fcwmelbourne.org/events/2025/fcwm-agm-bbq/01-agm-poster.png",
+    "/assets/activities/page-56-1.webp": "https://images.fcwmelbourne.org/events/2025/harmony-and-peace-forum/01-forum-panel.webp",
+    "/assets/activities/celebration-harmony-peace-poster.webp": "https://images.fcwmelbourne.org/events/2025/harmony-and-peace-forum/02-event-poster.webp",
+    "/assets/activities/page-57-1.webp": "https://images.fcwmelbourne.org/events/2025/koreatown/01-community-event.webp",
+    "/assets/activities/page-61-1.webp": "https://images.fcwmelbourne.org/events/2025/wwii-80th-anniversary/01-commemoration-notice.webp",
+    "/assets/activities/page-64-1.webp": "https://images.fcwmelbourne.org/events/2026/capa-statue-visit/01-statue-visit-group.webp",
+    "/assets/projects/cmta-award-presentation.jpg": "https://images.fcwmelbourne.org/events/2026/cmta/01-award-presentation.jpg",
+    "/assets/projects/cmta-artist-presentation.jpg": "https://images.fcwmelbourne.org/events/2026/cmta/02-artist-presentation.jpg",
+    "/assets/projects/cmta-audience-presentation.jpg": "https://images.fcwmelbourne.org/events/2026/cmta/03-audience.jpg",
+    "/assets/cmta-main-poster.png": "https://images.fcwmelbourne.org/events/2026/cmta/04-main-poster.png",
+    "/assets/activities/page-71-1.webp": "https://images.fcwmelbourne.org/events/2026/cmta/04-main-poster.png",
+    "/assets/cmta-open-call-poster.png": "https://images.fcwmelbourne.org/events/2026/cmta/06-open-call-poster.png",
+    "/assets/activities/liberation-day-2026-04.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/05-kim-seo-kyung-speech.webp",
+    "/assets/activities/liberation-day-2026-01.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/02-commemorative-address.webp",
+    "/assets/activities/liberation-day-2026-02.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/03-youth-performance.webp",
+    "/assets/activities/liberation-day-2026-03.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/04-stage-reading.webp",
+    "/assets/projects/memorial-day-2026-kim-seo-kyung.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/05-kim-seo-kyung-speech.webp",
+    "/assets/projects/memorial-day-2026-song-cell-no-8.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/06-song-of-cell-no-8.webp",
+    "/assets/projects/memorial-day-2026-group-photo.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/07-group-photo.webp",
+    "/assets/activities/page-69-1.webp": "https://images.fcwmelbourne.org/events/2026/girim-day/08-event-poster.webp",
+    "/assets/activities/page-63-1.webp": "https://images.fcwmelbourne.org/events/2026/justice-for-survivors/01-event-notice.webp",
+    "/assets/projects/screening-full-house.jpg": "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/01-audience.jpg",
+    "/assets/projects/screening-welcome-desk.jpg": "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/02-welcome-desk.jpg",
+    "/assets/projects/screening-paper-planes.jpg": "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/03-paper-planes.jpg",
+    "/assets/projects/screening-photo-zone.jpg": "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/04-photo-zone.jpg",
+    "/assets/spirits-homecoming-poster-ko.webp": "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/05-event-poster-ko.webp",
+    "/assets/spirits-homecoming-poster-en.webp": "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/06-event-poster-en.webp",
+    "/assets/spirits-homecoming-poster.png": "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/06-event-poster-en.webp",
+    "/assets/activities/page-68-1.webp": "https://images.fcwmelbourne.org/events/2026/sydney-statue-10th-anniversary/01-anniversary-poster.webp",
+    "/assets/activities/sydney-statue-10th-video-still.png": "https://images.fcwmelbourne.org/events/2026/sydney-statue-10th-anniversary/02-congratulations-video-thumbnail.png",
+    "/assets/activities/page-66-1.webp": "https://images.fcwmelbourne.org/events/2026/womens-voices-forum/01-forum-event.webp",
+    "/assets/activities/page-65-1.webp": "https://images.fcwmelbourne.org/events/2026/womens-voices-forum/02-forum-notice.webp",
+    "/favicon.png": "https://images.fcwmelbourne.org/site/branding/favicon.png",
+    "/favicon.svg": "https://images.fcwmelbourne.org/site/branding/favicon.svg",
+    "/assets/logo.png": "https://images.fcwmelbourne.org/site/branding/fcwm-logo.png",
+    "/social-preview.png": "https://images.fcwmelbourne.org/site/branding/social-preview.png",
+    "/assets/butterfly-1.png": "https://images.fcwmelbourne.org/site/graphics/butterflies/butterfly-01.png",
+    "/assets/butterfly-2.png": "https://images.fcwmelbourne.org/site/graphics/butterflies/butterfly-02.png",
+    "/assets/butterfly-3.png": "https://images.fcwmelbourne.org/site/graphics/butterflies/butterfly-03.png",
+    "/assets/about-hero.png": "https://images.fcwmelbourne.org/site/headers/about-joined-hands.png",
+    "/assets/faq-hero.png": "https://images.fcwmelbourne.org/site/headers/faq-open-book.png",
+    "/assets/project-hero.png": "https://images.fcwmelbourne.org/site/headers/projects-peace-dove.png",
+    "/assets/statue-hero.png": "https://images.fcwmelbourne.org/site/headers/statue-butterfly-line.png",
+    "/assets/left-plants-restored.png": "https://images.fcwmelbourne.org/site/home/botanicals/plants-left-desktop.png",
+    "/assets/left-plants.png": "https://images.fcwmelbourne.org/site/home/botanicals/plants-left-mobile.png",
+    "/assets/right-plants-restored.png": "https://images.fcwmelbourne.org/site/home/botanicals/plants-right-desktop.png",
+    "/assets/right-plants.png": "https://images.fcwmelbourne.org/site/home/botanicals/plants-right-mobile.png",
+    "/assets/golden-lines.png": "https://images.fcwmelbourne.org/site/home/golden-lines-source.png",
+    "/assets/golden-lines-resized.png": "https://images.fcwmelbourne.org/site/home/golden-lines-web.png",
+    "/assets/landing-hero-left.png": "https://images.fcwmelbourne.org/site/home/hero-left.png",
+    "/assets/landing-hero-right.png": "https://images.fcwmelbourne.org/site/home/hero-right.png",
+    "/assets/landing-statue.png": "https://images.fcwmelbourne.org/site/home/peace-statue-source.png",
+    "/assets/landing-statue-resized.png": "https://images.fcwmelbourne.org/site/home/peace-statue-web.png",
+    "/file.svg": "https://images.fcwmelbourne.org/site/icons/file.svg",
+    "/globe.svg": "https://images.fcwmelbourne.org/site/icons/globe.svg",
+    "/window.svg": "https://images.fcwmelbourne.org/site/icons/window.svg",
+    "/assets/activities/page-62-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/agm-bbq-poster-date-conflict.webp",
+    "/assets/activities/page-74-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/committee-meeting.webp",
+    "/assets/activities/page-86-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/community-barbecue.webp",
+    "/assets/activities/page-73-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/community-classroom-gathering.webp",
+    "/assets/activities/page-83-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/community-event-collage-01.webp",
+    "/assets/activities/page-84-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/community-event-collage-02.webp",
+    "/assets/activities/page-80-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/community-meeting-portrait.webp",
+    "/assets/activities/page-77-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/community-table-meeting.webp",
+    "/assets/activities/page-72-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/education-presentation.webp",
+    "/assets/activities/page-85-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/fundraising-stall-collage.webp",
+    "/assets/activities/page-78-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/kim-seo-kyung-kim-woon-sung-meeting.webp",
+    "/assets/activities/page-79-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/korean-council-visit.webp",
+    "/assets/activities/page-75-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/online-meeting-01.webp",
+    "/assets/activities/page-81-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/online-meeting-02.webp",
+    "/assets/activities/page-76-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/statue-site-group-photo.webp",
+    "/assets/activities/page-82-1.webp": "https://images.fcwmelbourne.org/archive/undated/community-records/statue-site-maintenance.webp"
+  },
+  "added": [
+    "https://images.fcwmelbourne.org/events/2026/cmta/07-audience-2.jpg",
+    "https://images.fcwmelbourne.org/events/2026/cmta/08-chinese-statue.jpg"
+  ],
+  "externalDriveImages": "Unchanged; not included in the uploaded local image archive.",
+  "pendingUploads": [
+    {
+      "original": "/assets/activities/page-72-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/education-presentation.webp"
+    },
+    {
+      "original": "/assets/activities/page-73-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-classroom-gathering.webp"
+    },
+    {
+      "original": "/assets/activities/page-74-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/committee-meeting.webp"
+    },
+    {
+      "original": "/assets/activities/page-75-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/online-meeting-01.webp"
+    },
+    {
+      "original": "/assets/activities/page-76-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/statue-site-group-photo.webp"
+    },
+    {
+      "original": "/assets/activities/page-77-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-table-meeting.webp"
+    },
+    {
+      "original": "/assets/activities/page-78-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/kim-seo-kyung-kim-woon-sung-meeting.webp"
+    },
+    {
+      "original": "/assets/activities/page-79-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/korean-council-visit.webp"
+    },
+    {
+      "original": "/assets/activities/page-80-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-meeting-portrait.webp"
+    },
+    {
+      "original": "/assets/activities/page-81-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/online-meeting-02.webp"
+    },
+    {
+      "original": "/assets/activities/page-82-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/statue-site-maintenance.webp"
+    },
+    {
+      "original": "/assets/activities/page-83-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-event-collage-01.webp"
+    },
+    {
+      "original": "/assets/activities/page-84-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-event-collage-02.webp"
+    },
+    {
+      "original": "/assets/activities/page-85-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/fundraising-stall-collage.webp"
+    },
+    {
+      "original": "/assets/activities/page-86-1.webp",
+      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-barbecue.webp"
+    }
+  ],
+  "pendingReason": "Sampled archive/undated/community-records URLs returned R2 Object not found. Preserve all field-gallery originals until actual upload paths are confirmed."
+}
