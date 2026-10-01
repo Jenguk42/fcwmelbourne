@@ -114,6 +114,6 @@ GitHub source mirror: https://github.com/Jenguk42/fcwmelbourne (`main`).
 
 After each website change, update both the Sites source repository and this GitHub repository. Preserve GitHub history and its existing `CNAME` file.
 
-Photos are stored in R2 at https://images.fcwmelbourne.org and are intentionally excluded from the GitHub mirror. This repository backs up application source and configuration; it does not contain local media files. The existing deployment still retains 15 activity gallery photos (`page-72-1.webp` through `page-86-1.webp`) and `sydney-statue-10th-congratulations.mp4` locally. To deploy independently, migrate those remaining assets to R2 and update `app/activity-data.ts`, or restore them into `public/assets/activities/` from the existing site.
+Photos are stored in R2 at https://images.fcwmelbourne.org and are intentionally excluded from the GitHub mirror. This repository backs up application source and configuration; it does not contain local media files. All 15 activity field-gallery photos now use R2 URLs. The Sydney anniversary video still uses `public/assets/activities/sydney-statue-10th-congratulations.mp4` locally. To deploy independently, move that video to R2 and update `app/activity-data.ts`, or restore it from the existing site.
 
 Local development requires Node.js 22.13 or later. Run `npm run install:ci`, then `npm run dev`; use `npm run build` to create the Worker output. Production publishing continues through Sites.

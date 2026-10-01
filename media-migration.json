@@ -134,67 +134,7 @@
     "https://images.fcwmelbourne.org/events/2026/cmta/08-chinese-statue.jpg"
   ],
   "externalDriveImages": "Unchanged; not included in the uploaded local image archive.",
-  "pendingUploads": [
-    {
-      "original": "/assets/activities/page-72-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/education-presentation.webp"
-    },
-    {
-      "original": "/assets/activities/page-73-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-classroom-gathering.webp"
-    },
-    {
-      "original": "/assets/activities/page-74-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/committee-meeting.webp"
-    },
-    {
-      "original": "/assets/activities/page-75-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/online-meeting-01.webp"
-    },
-    {
-      "original": "/assets/activities/page-76-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/statue-site-group-photo.webp"
-    },
-    {
-      "original": "/assets/activities/page-77-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-table-meeting.webp"
-    },
-    {
-      "original": "/assets/activities/page-78-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/kim-seo-kyung-kim-woon-sung-meeting.webp"
-    },
-    {
-      "original": "/assets/activities/page-79-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/korean-council-visit.webp"
-    },
-    {
-      "original": "/assets/activities/page-80-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-meeting-portrait.webp"
-    },
-    {
-      "original": "/assets/activities/page-81-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/online-meeting-02.webp"
-    },
-    {
-      "original": "/assets/activities/page-82-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/statue-site-maintenance.webp"
-    },
-    {
-      "original": "/assets/activities/page-83-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-event-collage-01.webp"
-    },
-    {
-      "original": "/assets/activities/page-84-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-event-collage-02.webp"
-    },
-    {
-      "original": "/assets/activities/page-85-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/fundraising-stall-collage.webp"
-    },
-    {
-      "original": "/assets/activities/page-86-1.webp",
-      "intendedR2": "https://images.fcwmelbourne.org/archive/undated/community-records/community-barbecue.webp"
-    }
-  ],
-  "pendingReason": "Sampled archive/undated/community-records URLs returned R2 Object not found. Preserve all field-gallery originals until actual upload paths are confirmed."
+  "pendingUploads": [],
+  "pendingReason": null,
+  "fieldGalleryVerification": "All 15 R2 field-gallery image URLs opened successfully in the browser on 2026-10-01; field galleries now use R2."
 }
