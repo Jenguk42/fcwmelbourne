@@ -8,6 +8,7 @@ import {
 } from "../activity-data";
 import { PhotoCarousel } from "../photo-carousel";
 import { ActivityVideo } from "../activity-video";
+import { EventVideoPill } from "../event-video-pill";
 import { useSiteLanguage } from "../language-controller";
 
 const years = ["2026", "2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016"] as const;
@@ -127,9 +128,10 @@ export function ActivityFilter() {
                       </div>
                       <h4>{activity.title}</h4>
                       <p>{activity.copy}</p>
-                      {activity.sources?.length ? (
+                      {activity.sources?.length || activity.messageVideo ? (
                         <div className="source-link-row activity-source-links">
-                          {activity.sources.map((source) => (
+                          {activity.messageVideo ? <EventVideoPill {...activity.messageVideo} /> : null}
+                          {activity.sources?.map((source) => (
                             <a
                               href={source.href}
                               target="_blank"

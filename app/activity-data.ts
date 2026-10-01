@@ -22,6 +22,7 @@ export type Activity = {
   copy: string;
   photos?: ActivityPhoto[];
   video?: { src: string; poster: string };
+  messageVideo?: { src: string; poster: string };
   featured?: boolean;
   supporting?: boolean;
   sources?: { label: string; href: string }[];
@@ -170,7 +171,7 @@ export const activities: Activity[] = [
     { src: "https://images.fcwmelbourne.org/events/2026/girim-day/04-stage-reading.webp", alt: "2026년 광복절과 일본군 위안부 피해자 기림의 날 무대 낭독" },
     photo(69, "2026년 광복절과 일본군 위안부 피해자 기림 행사 안내 포스터"),
   ] },
-  { year: "2026", date: "12 Sep 2026", category: "culture", featured: true, title: "《귀향》 10주년 멜번 특별상영회", copy: "영화 《귀향》 개봉 10주년을 맞아 특별상영회를 열고, 일본군 ‘위안부’ 피해자들의 이야기와 기억의 의미를 지역사회와 나눴습니다.", photos: [
+  { year: "2026", date: "12 Sep 2026", category: "culture", featured: true, title: "《귀향》 10주년 멜번 특별상영회", messageVideo: { src: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/07-solidarity-video-messages.mp4", poster: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/05-event-poster-ko.webp" }, copy: "영화 《귀향》 개봉 10주년을 맞아 특별상영회를 열고, 일본군 ‘위안부’ 피해자들의 이야기와 기억의 의미를 지역사회와 나눴습니다.", photos: [
     { src: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/03-paper-planes.jpg", alt: "귀향 상영회 종이비행기" },
     { src: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/01-audience.jpg", alt: "귀향 상영회 관객" },
     { src: "https://images.fcwmelbourne.org/events/2026/spirits-homecoming/02-welcome-desk.jpg", alt: "귀향 상영회 안내 데스크" },
