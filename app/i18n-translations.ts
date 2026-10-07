@@ -1,4 +1,13 @@
 export const englishTranslations: Record<string, string> = {
+  "Anna Song의 학교 방문 및 역사·인권 교육": "Anna Song’s school visit and history and human rights education",
+  "Anna Song이 학교를 방문해 학생들을 대상으로 일본군 ‘위안부’ 역사와 인권에 관한 교육 발표를 진행했습니다. 피해자들의 이야기를 전하고, 역사적 기억을 다음 세대와 나눴습니다.": "Anna Song visited a school and delivered an educational presentation on the history of Japanese military ‘comfort women’ and human rights. She shared victims’ stories and historical memory with the next generation.",
+  "학생들의 평화의 소녀상 방문과 만들기 활동": "Students visit the Statue of Peace and take part in craft activities",
+  "학생들이 멜번 평화의 소녀상을 방문하고 만들기 활동에 참여했습니다. 소녀상에 담긴 역사와 의미를 접하고, 기억과 평화의 가치를 함께 생각해 보는 시간을 가졌습니다.": "Students visited Melbourne’s Statue of Peace and took part in craft activities. They explored the history and meaning of the statue and reflected together on remembrance and peace.",
+  "학교에서 역사·인권 교육 발표를 진행하는 Anna Song": "Anna Song delivering a history and human rights presentation at a school",
+  "Anna Song의 학교 방문 교육 단체사진": "Group photo from Anna Song’s school visit",
+  "평화의 소녀상 방문 활동에서 함께 이야기를 나누는 학생들": "Students sharing a discussion during their Statue of Peace visit",
+  "평화의 소녀상을 방문한 학생들의 단체사진": "Group photo of students visiting the Statue of Peace",
+
   "CAPA 제2차 세계대전 종전 80주년 기림행사 프로그램": "Programme for CAPA’s commemoration of the 80th anniversary of the end of the Second World War",
   "CAPA와 지역 연대 관계자들의 소녀상 방문 및 대화": "CAPA and community partners visiting the Statue of Peace and sharing a discussion",
   "시드니 평화의 소녀상 건립 10주년 기념행사 포스터": "Poster for the 10th anniversary of Sydney’s Statue of Peace",
