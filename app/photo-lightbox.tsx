@@ -11,7 +11,7 @@ function getCaption(img: HTMLImageElement) {
 
 function collectPhotos(clicked: HTMLImageElement): PhotoDetail[] {
   const group = clicked.closest<HTMLElement>("[data-photo-group]");
-  const images = group ? Array.from(group.querySelectorAll<HTMLImageElement>("img")) : [clicked];
+  const images = group ? Array.from(group.querySelectorAll<HTMLImageElement>("img")).filter((img) => !img.closest(".activity-card-video")) : [clicked];
   return images.map((img) => ({ src: img.currentSrc || img.src, alt: img.alt || getCaption(img), caption: getCaption(img) }));
 }
 
@@ -23,6 +23,7 @@ export function PhotoLightbox() {
 
   useEffect(() => {
     const prepare = () => document.querySelectorAll<HTMLImageElement>(photoSelector).forEach((img) => {
+      if (img.closest(".activity-card-video")) return;
       const hidden = Boolean(img.closest(".photo-carousel-slide[aria-hidden='true']"));
       img.tabIndex = hidden ? -1 : 0;
       img.setAttribute("role", "button");
@@ -37,11 +38,11 @@ export function PhotoLightbox() {
     };
     const onClick = (event: MouseEvent) => {
       const img = (event.target as Element | null)?.closest<HTMLImageElement>(photoSelector);
-      if (img) { event.preventDefault(); open(img); }
+      if (img && !img.closest(".activity-card-video")) { event.preventDefault(); open(img); }
     };
     const onKeyDown = (event: KeyboardEvent) => {
       const img = (event.target as Element | null)?.closest<HTMLImageElement>(photoSelector);
-      if (img && (event.key === "Enter" || event.key === " ")) { event.preventDefault(); open(img); }
+      if (img && !img.closest(".activity-card-video") && (event.key === "Enter" || event.key === " ")) { event.preventDefault(); open(img); }
     };
     prepare();
     const observer = new MutationObserver(prepare);

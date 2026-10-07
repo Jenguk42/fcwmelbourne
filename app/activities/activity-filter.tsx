@@ -109,7 +109,9 @@ export function ActivityFilter() {
                     className={`activity-card${activity.featured ? " activity-card-featured" : ""}${activity.supporting ? " activity-card-supporting" : ""}`}
                     key={`${activity.year}-${activity.title}`}
                   >
-                    {activity.video ? (
+                    {activity.video && activity.photos?.length ? (
+                      <PhotoCarousel className="activity-card-media" photos={activity.photos} video={{ ...activity.video, title: activity.title }} label={`${activity.title} 사진`} />
+                    ) : activity.video ? (
                       <ActivityVideo {...activity.video} title={activity.title} />
                     ) : activity.photos?.length ? (
                       <PhotoCarousel className="activity-card-media" photos={activity.photos} label={`${activity.title} 사진`} />
