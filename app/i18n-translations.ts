@@ -1,4 +1,5 @@
 export const englishTranslations: Record<string, string> = {
+  "2017년 정기총회 — 신문 게재 안내": "2017 Annual General Meeting — newspaper notice",
   "Anna Song의 학교 방문 및 역사·인권 교육": "Anna Song’s school visit and history and human rights education",
   "Anna Song이 학교를 방문해 학생들을 대상으로 일본군 ‘위안부’ 역사와 인권에 관한 교육 발표를 진행했습니다. 피해자들의 이야기를 전하고, 역사적 기억을 다음 세대와 나눴습니다.": "Anna Song visited a school and delivered an educational presentation on the history of Japanese military ‘comfort women’ and human rights. She shared victims’ stories and historical memory with the next generation.",
   "학생들의 평화의 소녀상 방문과 만들기 활동": "Students visit the Statue of Peace and take part in craft activities",
