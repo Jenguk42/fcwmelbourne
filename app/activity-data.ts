@@ -155,7 +155,7 @@ export const activities: Activity[] = [
     photo(49, "The Flowers of War 공동 상영회 안내"),
   ] },
   { year: "2024", date: "24 Aug 2024", category: "international", supporting: true, title: "Global Peace Statue Project 의견 수렴 공청회", copy: "글로벌 평화의 소녀상 프로젝트에 대한 설명과 지역사회 의견 수렴을 진행했습니다.", photos: [photo(50, "Global Peace Statue Project 의견 수렴 공청회 안내")] },
-  { year: "2024", date: "31 August 2024", category: "preservation", title: "글로벌 평화의 소녀상 건립 프로젝트 임시총회", copy: "이 날은 글로벌 평화의 소녀상 건립 프로젝트를 위한 임시총회가 열렸습니다.", photos: [
+  { year: "2024", date: "31 Aug 2024", category: "preservation", title: "글로벌 평화의 소녀상 건립 프로젝트 임시총회", copy: "이 날은 글로벌 평화의 소녀상 건립 프로젝트를 위한 임시총회가 열렸습니다.", photos: [
     { src: "https://images.fcwmelbourne.org/events/2024/global-peace-statue-egm/01-egm-poster.webp", alt: "2024년 8월 31일 글로벌 평화의 소녀상 건립 프로젝트 임시총회 안내" },
   ] },
   {"year": "2024", "date": "26 Oct 2024", "category": "international", "title": "멜번과 베를린을 잇는 평화의 소녀상 — 여성의 존엄과 권리를 위한 연대", "copy": "일본 히로시마 지역사회 구성원들을 대상으로 온라인 발표를 진행했습니다. 멜번과 베를린의 평화의 소녀상을 통해 여성의 존엄과 권리를 위한 국제연대의 의미를 나눴습니다.", "photos": [{"src": "https://images.fcwmelbourne.org/events/2024/hiroshima-melbourne-berlin-presentation/01-poster.webp", "alt": "멜번과 베를린을 잇는 평화의 소녀상 — 여성의 존엄과 권리를 위한 연대 — 행사 포스터"}]},
