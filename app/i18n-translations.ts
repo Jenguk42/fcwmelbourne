@@ -308,7 +308,7 @@ export const englishTranslations: Record<string, string> = {
   "캠페인, 문화행사와 공동체 모임을 통해 시민들과 만난 다양한 현장입니다.": "Community connections formed through campaigns, cultural events and gatherings.",
   "평화의 소녀상을 향한": "Our journey towards",
   "우리의 주요 활동": "the Statue of Peace",
-  "2016년부터 2026년까지 이어 온 교육, 문화행사, 지역사회 협력과 소녀상 건립·관리 활동을 연도별로 정리했습니다.": "A year-by-year record of education, cultural events, community partnerships, and the establishment and care of the statue from 2016 to 2026.",
+  "멜번 소녀상 연대는 평화와 정의, 역사적 기억이라는 공동의 가치를 바탕으로 다양한 배경과 세대의 사람들이 함께해 온 공동체입니다. 서로에 대한 존중과 돌봄으로 기쁨과 어려움을 함께 나누며, 피해자의 존엄을 지키고 기억을 다음 세대에 전하는 활동을 이어가고 있습니다.": "FCWM is a community that brings together people from diverse backgrounds and generations through shared values of peace, justice and historical remembrance. With mutual respect and care, we share moments of joy and difficulty while continuing our work to uphold the dignity of victims and pass their memory on to the next generation.",
   "Instagram에서 최근 소식 보기": "See recent updates on Instagram",
   "활동 기록 요약": "Activity record summary",
   "기록 범위": "Years covered",
