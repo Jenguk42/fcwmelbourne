@@ -579,6 +579,7 @@ export const englishTranslations: Record<string, string> = {
   "Activism, Inspiration and Legacy 공동 웨비나": "Activism, Inspiration and Legacy joint webinar",
   "Alamanda K–9 College 학생과 가족이 함께한 역사 교육 간담회": "History education session with Alamanda K–9 College students and families",
   "Australia Chinese Peace Statue Project 출범 행사 · Melbourne": "Australia Chinese Peace Statue Project launch · Melbourne",
+  "Calculated Nationalism in Contemporary South Korea 북콘서트 단체사진": "Group photograph at the Calculated Nationalism in Contemporary South Korea book talk",
   "Calculated Nationalism in Contemporary South Korea 북콘서트 안내": "Notice for the Calculated Nationalism in Contemporary South Korea book talk",
   "Celebration of Harmony, Promotion of Peace 지역사회 포럼 포스터": "Poster for the Celebration of Harmony, Promotion of Peace community forum",
   "Connecting Memories Through Art 작가 모집 포스터 — 작품 접수 마감 2026년 9월 5일": "Connecting Memories Through Art open-call poster — submissions closed 5 September 2026",
