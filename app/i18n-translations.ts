@@ -703,4 +703,7 @@ export const englishTranslations: Record<string, string> = {
   "CAPA·FCWM 공동 연대체 ‘Alliance for Peace and Memory’ 결성": "Establishment of the CAPA–FCWM Alliance for Peace and Memory",
   "CAPA와 FCWM이 공동 연대체 ‘Alliance for Peace and Memory’를 결성했습니다. 정기적으로 소통하며 중국 평화의 소녀상이 자리할 장소를 찾기 위한 협력을 이어가고 있습니다.": "CAPA and FCWM established the joint Alliance for Peace and Memory. We maintain regular contact and continue working together to find a home for the Chinese Statue of Peace.",
   "CAPA·FCWM 공동 연대체 ‘Alliance for Peace and Memory’ 결성 — 단체사진": "Establishment of the CAPA–FCWM Alliance for Peace and Memory — group photograph",
+  "일본군 ‘위안부’ 문제 해결 운동 — 오늘날 풀뿌리 사회의 문제의식과 대응": "The Movement to Redress the Japanese Military “Comfort Women”: Grassroots Concerns and Responses Today",
+  "한길수 교수가 FCWM 대표로 이탈리아 대학생들을 대상으로 발표했습니다. 일본군 ‘위안부’ 문제 해결 운동을 주제로, 오늘날 풀뿌리 사회의 문제의식과 대응을 다뤘습니다.": "Professor Gil-Soo Han presented to university students in Italy as a representative of FCWM. His presentation addressed the movement to redress the Japanese military “comfort women” issue, focusing on grassroots concerns and responses today.",
+  "한길수 교수의 이탈리아 대학생 대상 발표 포스터": "Poster for Professor Gil-Soo Han’s presentation to university students in Italy",
 };
