@@ -1,4 +1,5 @@
 export const englishTranslations: Record<string, string> = {
+  "2018년 전쟁과여성인권박물관 연대 방문 — 사진 전시 벽": "2018 solidarity visit to the War and Women’s Human Rights Museum — photo wall",
   "2017년 정기총회 — 신문 게재 안내": "2017 Annual General Meeting — newspaper notice",
   "Anna Song의 학교 방문 및 역사·인권 교육": "Anna Song’s school visit and history and human rights education",
   "Anna Song이 학교를 방문해 학생들을 대상으로 일본군 ‘위안부’ 역사와 인권에 관한 교육 발표를 진행했습니다. 피해자들의 이야기를 전하고, 역사적 기억을 다음 세대와 나눴습니다.": "Anna Song visited a school and delivered an educational presentation on the history of Japanese military ‘comfort women’ and human rights. She shared victims’ stories and historical memory with the next generation.",
