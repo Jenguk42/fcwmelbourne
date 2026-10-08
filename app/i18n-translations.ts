@@ -468,7 +468,7 @@ export const englishTranslations: Record<string, string> = {
   "‘위안부’ 운동의 활동과 유산을 주제로 한 웨비나를 공동 주최했습니다.": "We co-hosted a webinar on the activism and legacy of the ‘comfort women’ movement.",
   "멜번 평화의 소녀상 건립 2주년 기념 인권 글쓰기 대회": "Human Rights Writing Contest marking the second anniversary of the Statue of Peace",
   "청소년·학생들이 역사와 인권을 스스로 성찰할 수 있도록 ‘끝나지 않은 이야기’를 주제로 글쓰기 대회를 열었습니다.": "We held a writing competition titled An Unfinished Story, inviting young people and students to reflect on history and human rights.",
-  "오세아니아 온라인 영화 상영과 대화": "Oceania online film screening and discussion",
+  "낮은 목소리 오세아니아 온라인 GV 상영회": "The Murmuring — Oceania online screening and Q&A",
   "오세아니아 온라인 영화 상영과 게스트 토크에 참여하고 한·영 통역을 지원했습니다.": "We joined an Oceania-wide online film screening and guest discussion and provided Korean–English interpretation.",
   "지역 도서관에 《Pachinko》 기증": "Donation of Pachinko to a local library",
   "지역 도서관에 《Pachinko》를 기증해 역사와 기억에 대한 접근성을 넓혔습니다.": "We donated Pachinko to a local library, expanding access to stories of history and memory.",
