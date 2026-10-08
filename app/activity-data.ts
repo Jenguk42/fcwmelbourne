@@ -108,6 +108,9 @@ export const activities: Activity[] = [
   { year: "2017", date: "Jan 2017", category: "community", supporting: true, title: "첫 집행위원회 구성", copy: "첫 집행위원회를 구성하고 본격적인 활동 기반을 마련했습니다." },
   { year: "2017", date: "29 Jul 2017", category: "culture", title: "《The Apology》 상영과 모금의 밤", copy: "Mount Waverley의 침례교회에서 첫 영화 상영·모금 행사를 개최했습니다. 다큐멘터리 《The Apology》를 함께 관람하며 일본군 ‘위안부’ 피해자들의 이야기를 나누고, 평화의 소녀상 건립과 피해자 기억 활동을 위한 기금을 마련했습니다.", photos: [photo(5, "다큐멘터리 The Apology 상영과 모금의 밤 포스터")] },
   { year: "2017", date: "23 Nov 2017", category: "community", supporting: true, title: "Universal Ancient Wisdom: Bringing New Horizons", copy: "국제 합기도·선도 연맹의 40주년을 기념하는 《Universal Ancient Wisdom: Bringing New Horizons》 행사에 참석했습니다. 세계 평화운동을 기념하는 자리에서 지역사회와 교류하며 연대의 폭을 넓혔습니다.", photos: [photo(6, "Universal Ancient Wisdom 지역사회 행사 포스터")] },
+  { year: "2017", date: "24 Nov 2017", category: "community", title: "제24회 Clayton 연례 다문화 만찬", copy: "FCWM 회원들이 다른 지역사회와의 교류를 넓히기 위해 다문화 행사에 참석했습니다. 또한 FCWM과 단체가 추구하는 활동을 알리는 기회가 되었습니다.", photos: [
+    { src: "https://images.fcwmelbourne.org/events/2017/clayton-annual-multicultural-banquet/01-group-picture.webp", alt: "제24회 Clayton 연례 다문화 만찬에 참석한 FCWM 회원들" },
+  ] },
   { year: "2017", date: "2 Dec 2017", category: "community", title: "2017년 정기총회", copy: "정기총회를 열어 회원들과 활동을 돌아보고, 향후 활동 방향과 계획을 논의했습니다.", photos: [
     { src: "https://images.fcwmelbourne.org/events/2017/2017-agm/01-agm.webp", alt: "2017년 정기총회 활동 현장" },
     { src: "https://images.fcwmelbourne.org/events/2017/2017-agm/03-agm.webp", alt: "2017년 정기총회 활동 현장" },
