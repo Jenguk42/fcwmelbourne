@@ -7,6 +7,7 @@ import {
   type ActivityCategory,
 } from "../activity-data";
 import { PhotoCarousel } from "../photo-carousel";
+import { sortActivitiesByDate } from "../activity-sort";
 import { ActivityVideo } from "../activity-video";
 import { EventVideoPill } from "../event-video-pill";
 import { useSiteLanguage } from "../language-controller";
@@ -91,7 +92,7 @@ export function ActivityFilter() {
         aria-busy={isChanging}
       >
         {years.map((year) => {
-          const yearActivities = filtered.filter((activity) => activity.year === year);
+          const yearActivities = sortActivitiesByDate(filtered.filter((activity) => activity.year === year));
           if (!yearActivities.length) return null;
 
           return (
