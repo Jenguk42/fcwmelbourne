@@ -7,7 +7,7 @@ import { PhotoCarousel } from "../photo-carousel";
 const fieldCollections = [
   { title: "교육과 다음 세대", copy: "학생들이 역사와 인권의 의미를 배우고 자신의 언어로 생각을 나눈 현장입니다.", photos: [72, 73, 74].map((page) => ({ src: activityImagePaths[page], alt: "차세대 역사·인권 교육 활동 현장" })) },
   { title: "지역을 넘어 함께한 만남", copy: "여러 지역과 단체에서 모인 사람들과 함께한 순간을 사진으로 담았습니다.", photos: [75, 76, 79, 81].map((page) => ({ src: activityImagePaths[page], alt: "여러 지역과 단체의 사람들과 함께한 FCWM의 만남" })) },
-  { title: "소녀상을 세우고 지키는 사람들", copy: "작가와의 만남부터 정기적인 관리까지, 소녀상을 지켜 온 손길의 기록입니다.", photos: [78, 82].map((page) => ({ src: activityImagePaths[page], alt: "평화의 소녀상 건립·관리 활동 기록" })) },
+  { title: "소녀상을 세우고 지키는 사람들", copy: "작가와의 만남부터 정기적인 관리까지, 소녀상을 지켜 온 손길의 기록입니다.", photos: [{ src: "https://images.fcwmelbourne.org/archive/undated/community-records/statue-site-maintenance-02.webp", alt: "평화의 소녀상 건립·관리 활동 기록" }, ...[82, 78].map((page) => ({ src: activityImagePaths[page], alt: "평화의 소녀상 건립·관리 활동 기록" }))] },
   { title: "지역사회와 함께", copy: "캠페인, 문화행사와 공동체 모임을 통해 시민들과 만난 다양한 현장입니다.", photos: [77, 80, 83, 84, 85, 86].map((page) => ({ src: activityImagePaths[page], alt: "FCWM 지역사회 활동 현장" })) },
 ];
 
